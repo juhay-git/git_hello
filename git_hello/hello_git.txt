@@ -2,5 +2,11 @@
 
 # toinen rivi
 
+<<<<<<< HEAD
 # kolmas rivi
 #kolmas rivi
+=======
+#kolmas rivi
+
+#neljäs rivi löytyy tästä
+>>>>>>> 8539ad83f700cc56bf91394799837e8e684388c2
